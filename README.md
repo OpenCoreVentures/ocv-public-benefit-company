@@ -9,4 +9,6 @@ The specific public benefit to be promoted by the Corporation is to maintain an 
 1. Always make it clear what software code of the Corporation is proprietary and what is being released by the Corporation as open-source code;
 1. Not withhold or intentionally delay the public release of security fixes created to address known security vulnerabilities to the Corporation’s open-source codebase.
 
+PBCs follow the same tax treatment as a C-corp. 
+
 Licensed under the Creative Commons Attribution-ShareAlike 4.0 license
