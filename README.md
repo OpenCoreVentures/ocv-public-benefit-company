@@ -1,4 +1,4 @@
-This is the official repository for the OCV Public Benefit Company Charter.
+This is the official repository for the OCV Public Benefit Company Charter https://github.com/OpenCoreVentures/ocv-public-benefit-company/blob/main/ocv-public-benefit-company-charter.md
 
 For background, read https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-core/
 
