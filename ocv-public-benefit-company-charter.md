@@ -1,6 +1,6 @@
 # OCV Public Benefit Company Charter
 
-The specific public benefit to be promoted by the Corporation is to maintain an open-source platform for the benefit of the public. To deliver this public benefit, the Corporation will: 
+The specific public benefit to be promoted by the Corporation is to maintain an open source platform for the benefit of the public. To deliver this public benefit, the Corporation will: 
 
 | Legal Language      | Intended Purpose |
 | ----------- | ----------- |
@@ -10,6 +10,8 @@ The specific public benefit to be promoted by the Corporation is to maintain an 
 | 4. Make available a majority of new features to any products measured in a calendar year that the Corporation generally makes available to the public under an open-source software license;   | To improve the state of development of the open source project overall (through funding and other resources at the company). For example, the number of new open source features released must exceed the number of proprietary features released in a year. One release may include only proprietary code, while the next only includes open source. It’s up to the company to decide so long as they are prioritizing open source feature development. This ensures the company will continue to develop the open source project in a meaningful way.          |
 | 5. Always make it clear what software code of the Corporation is proprietary and what is being released by the Corporation as open-source code;   | To maintain transparency with the open source community. For example, the company may publish a release blog post which explicitly states which new features are open source and which are open core.         |
 | 6. Not withhold or intentionally delay the public release of security fixes created to address known security vulnerabilities to the Corporation’s open-source codebase.   | To protect the security and integrity of the open source codebase. For example, if there is a security fix that effects both open core and open source code, the company cannot delay the security fix to the open source code base in order to provide a premium security service to paid users.        |
+| 7. not unreasonably withhold acceptance of code modification proposals from its users that would permit the export of stored user and/or project data; and | Intended purpose |
+|8. not unreasonably withhold acceptance of code modification proposals to add application programming interfaces. | Intended purpose |
 
 
 Licensed under the Creative Commons Attribution-ShareAlike 4.0 license
