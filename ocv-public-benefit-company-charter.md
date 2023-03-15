@@ -1,4 +1,4 @@
-# OCV Public Benefit Company Charter
+# OCV Public Benefit Company (OPC) Charter
 
 The specific public benefit to be promoted by the Corporation is to maintain an open source platform for the benefit of the public. To deliver this public benefit, the Corporation will: 
 
