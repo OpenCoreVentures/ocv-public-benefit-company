@@ -12,6 +12,7 @@ The specific public benefit to be promoted by the Corporation is to maintain an 
 | 6. Not withhold or intentionally delay the public release of security fixes created to address known security vulnerabilities to the Corporation’s open-source codebase.   | To protect the security and integrity of the open source codebase. For example, if there is a security fix that effects both open core and open source code, the company cannot delay the security fix to the open source code base in order to provide a premium security service to paid users.        |
 | 7. Not unreasonably withhold acceptance of code modification proposals from its users that would permit the export of stored user and/or project data; and | To promote open standards and permit data portability. |
 |8. Not unreasonably withhold acceptance of code modification proposals to add application programming interfaces. | To permit and encourage interoperability. |
+|9. Any software that is released by the Company under an open source license, will remain available under the original license provided by the Company | To prevent relicensing of existing open source software |
 
 
 Licensed under the Creative Commons Attribution-ShareAlike 4.0 license
